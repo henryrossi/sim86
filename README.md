@@ -11,6 +11,7 @@ To simulate a program, assemble the program into 8086 machine code from an assem
 ```
 
 The program takes the binary code stream and decodes each instruction, executes its logic, and prints reassembled assembly corresponding to the instruction.
+This allows for easy investigation and testing of the decoding mechanism.
 
 
 To compile the program run:
